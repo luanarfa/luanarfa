@@ -43,3 +43,15 @@ Vê mais sobre mim em:
 ## Bases de Dados  
 [![SQL Server](https://img.shields.io/badge/SQL_Server-A487D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/sql-server) 
 [![MongoDB](https://img.shields.io/badge/MongoDB-3EB991?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+---
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanarfa&layout=compact&langs_count=8&theme=tokyonight&custom_title=👩🏽‍💻"
+      alt=""
+      width="500"
+    />
+  </a>
+</div>
