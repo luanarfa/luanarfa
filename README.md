@@ -49,8 +49,8 @@ Vê mais sobre mim em:
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanarfa&layout=compact&langs_count=8&theme=tokyonight&custom_title=👩🏽‍💻"
-      alt=""
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanarfa&layout=compact&langs_count=8&theme=custom&custom_title=👩🏽‍💻&hide_border=true&bg_color=1a1b27&title_color=F4CDD9&text_color=A487D4&icon_color=3EB991&border_color=6ECADC"
+      alt="Top Languages"
       width="500"
     />
   </a>
