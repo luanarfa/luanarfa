@@ -8,9 +8,11 @@ Atualmente, estou a frequentar o curso de **Full-Stack Developer** na Cegid Acad
 
 Vê mais sobre mim em:
 
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-F4CDD9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanarfa)
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/luanarfa">
+    <img src="https://img.shields.io/badge/LinkedIn-F4CDD9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 
 ## 🖥 Sistemas Operativos  
