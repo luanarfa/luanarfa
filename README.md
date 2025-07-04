@@ -8,7 +8,9 @@ Atualmente, estou a frequentar o curso de **Full-Stack Developer** na Cegid Acad
 
 Vê mais sobre mim em:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F4CDD9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanarfa)
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-F4CDD9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanarfa)
+</p>
 
 
 ## 🖥 Sistemas Operativos  
@@ -38,9 +40,5 @@ Vê mais sobre mim em:
 ---
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luanarfa&layout=compact&theme=dark&custom_title=👩‍💻"
-    alt="Linguagens Mais Utilizadas"
-    width="500"
-  />
+[![👩🏽‍💻](https://github-readme-stats.vercel.app/api/top-langs/?username=luanarfa&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
