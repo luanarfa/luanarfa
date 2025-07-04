@@ -43,7 +43,7 @@ Vê mais sobre mim em:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanarfa&layout=compact&langs_count=8&theme=dark&custom_title=👩🏽‍💻"
-      alt=""
+      alt="" width="500"
     />
   </a>
 </div>
