@@ -29,7 +29,7 @@ Vê mais sobre mim em:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanarfa&layout=compact&theme=dark&custom_title= "
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanarfa&layout=compact&theme=dark&custom_title=Linguagens"
     alt="Linguagens Mais Utilizadas"
     width="500"
   />
