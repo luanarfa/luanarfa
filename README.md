@@ -1,6 +1,6 @@
 ***
 
-Junior **Full-Stack Developer** skilled in C#, .NET, JavaScript, Node.js, Angular, SQL Server and MongoDB, with a strong foundation in critical thinking, teamwork, and adaptability from a Nursing career.
+Junior **Full-Stack Developer** skilled in C#, .NET, JavaScript, Node.js, Angular, SQL Server and MongoDB, with basic knowledge of UI/UX principles and web design, experience using Figma, and an interest in building user-friendly interfaces.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luanarfa">
@@ -37,3 +37,10 @@ Junior **Full-Stack Developer** skilled in C#, .NET, JavaScript, Node.js, Angula
 ## Database  
 [![SQL Server](https://img.shields.io/badge/SQL_Server-A487D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/sql-server) 
 [![MongoDB](https://img.shields.io/badge/MongoDB-3EB991?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+
+## UI/UX & Web Design  
+[![Figma](https://img.shields.io/badge/Figma-E01563?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+![UX Design](https://img.shields.io/badge/UX_Design-F4CDD9?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-6ECADC?style=for-the-badge)
+[![WordPress](https://img.shields.io/badge/WordPress-3EB991?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
