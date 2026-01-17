@@ -1,6 +1,6 @@
 ***
 
-Junior **Full-Stack Developer** skilled in C#, .NET, JavaScript, Node.js, Angular, SQL Server and MongoDB, with basic knowledge of UI/UX principles and web design, experience using Figma, and an interest in building user-friendly interfaces.
+Junior **Full-Stack Developer** skilled in C#, .NET, JavaScript, Node.js, Angular, SQL Server, and MongoDB, with basic UI/UX and **web design** knowledge, experience using Figma, and a strong focus on building user-friendly interfaces, supported by a background in **Nursing** that strengthened critical thinking, empathy, and teamwork.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luanarfa">
