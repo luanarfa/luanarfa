@@ -1,12 +1,6 @@
 ***
 
-## Uma nova vocação nasceu do mesmo desejo de resolver problemas.
-
-Atualmente, estou a frequentar o curso de **Full-Stack Developer** na Cegid Academy (Primavera), onde desenvolvo competências técnicas através de aprendizagem contínua, projetos práticos e avaliação teórica. Ainda tenho um longo caminho pela frente, mas a motivação e a persistência pavimentam o meu percurso.
-
-**Enfermagem** ensinou-me a adquirir pensamento crítico, agir com proatividade e manter calma sob pressão. Aprendi a ser prática, resiliente e a encontrar soluções rápidas para problemas reais. Hoje, levo esses mesmos valores para o mundo da programação, onde continuo a resolver problemas – agora, através da tecnologia.
-
-Vê mais sobre mim em:
+Junior **Full-Stack Developer** skilled in C#, .NET, JavaScript, Node.js, Angular, SQL Server and MongoDB, with a strong foundation in critical thinking, teamwork, and adaptability from a Nursing career.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luanarfa">
@@ -17,7 +11,7 @@ Vê mais sobre mim em:
 
 
 
-## Sistemas Operativos 
+## OS 
 [![iOS](https://img.shields.io/badge/iOS-3EB991?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/ios/) 
 [![macOS](https://img.shields.io/badge/macOS-E01563?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/) 
 [![Windows](https://img.shields.io/badge/Windows-6ECADC?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
@@ -40,6 +34,6 @@ Vê mais sobre mim em:
 [![REST API](https://img.shields.io/badge/REST_API-F4CDD9?style=for-the-badge&logo=api&logoColor=white)](https://restfulapi.net/)
 
 
-## Bases de Dados  
+## Database  
 [![SQL Server](https://img.shields.io/badge/SQL_Server-A487D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/sql-server) 
 [![MongoDB](https://img.shields.io/badge/MongoDB-3EB991?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
